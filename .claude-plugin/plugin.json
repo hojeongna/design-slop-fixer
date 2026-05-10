@@ -1,0 +1,27 @@
+{
+  "name": "design-slop-fixer",
+  "version": "1.0.0",
+  "description": "Rule-based UI/UX validator with 768 canonical design rules. Two skills (slop-check-ui, slop-check-ux) cite every issue by RULE-ID and dispatch up to 22 parallel sub-agents per run. Ultra skill — heavy token usage, recommended for Claude Max 20x subscribers.",
+  "author": {
+    "name": "hojeongna",
+    "url": "https://github.com/hojeongna"
+  },
+  "homepage": "https://github.com/hojeongna/design-slop-fixer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hojeongna/design-slop-fixer.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "ui",
+    "ux",
+    "review",
+    "design-system",
+    "mobile",
+    "web",
+    "validation",
+    "skills",
+    "anti-slop"
+  ]
+}
